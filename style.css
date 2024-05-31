@@ -1,0 +1,17 @@
+table{
+    border: black 3px solid;
+    width: 50%;
+}
+
+td,th{
+    border: rgb(55, 51, 51) 2px solid;
+}
+
+td{
+    color: brown;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(240, 168, 168);
+}
